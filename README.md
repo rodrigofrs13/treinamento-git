@@ -84,7 +84,7 @@ Head -> Commitar o arquivo para GIT
 - Push an existing folder
 - cd existing_folder
 - git init -> inica o GIt para o track
-- git remote add origin https://gitlab.com/rodrigofrsaws/importrepo.git -> adicionar o servidor remoto
+- git remote add origin <<nome_do_repo> -> adicionar o servidor remoto
 - git add .
 - git commit -m "Initial commit"
 - git push -u origin main
