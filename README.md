@@ -2,11 +2,16 @@
 
 ### Estudos
 ## DESCOMPLICANDO O GITLAB | CERTIFICAÇÃO GITLAB
-- Primeria aula - https://www.youtube.com/watch?v=SMzaAP09BD4&list=RDCMUCJnKVGmXRXrH49Tvrx5X0Sw&start_radio=1
-- Segunda Aula - https://www.youtube.com/watch?v=fkfWcPZUd4Y
-- GITFLOW - SEJA O NINJA SUPREMO NO GIT! (super importante e prático!) - https://www.youtube.com/watch?v=dJjVr6Ya7B8
+## Primeria aula 
+- https://www.youtube.com/watch?v=SMzaAP09BD4&list=RDCMUCJnKVGmXRXrH49Tvrx5X0Sw&start_radio=1
 
-## treinamento oficial git 
+## Segunda Aula 
+- https://www.youtube.com/watch?v=fkfWcPZUd4Y
+
+## GITFLOW - SEJA O NINJA SUPREMO NO GIT! (super importante e prático!) 
+- https://www.youtube.com/watch?v=dJjVr6Ya7B8
+
+## Treinamento oficial Git 
 - https://gitlab.edcast.com/pathways/copy-of-gitlab-certification/cards/1411246
 
 
@@ -19,16 +24,17 @@
 ## CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS) 
 - https://www.youtube.com/watch?v=OuOb1_qADBQ
 
-## link git oficial 
+## Link Git oficial 
 - https://git-scm.com/book/pt-br/v2
 
-### stages
+### Entendendo os stages
 Working Dir -> Não está sendo gerenciado pelo GIT 
 Index/stage -> com o git add o arquivo já é visto pelo GIT cuidar
 Head -> Commitar o arquivo para GIT 
 
 
-### Comandos
+### COMANDOS 
+
 ## git init // inicia a linha do tempo
 
 ## git add // adiciona ou atualiza mudanças para irem para a linha do tempoo
