@@ -1,19 +1,26 @@
 # git
 
 ### Estudos
-DESCOMPLICANDO O GITLAB | CERTIFICAÇÃO GITLAB
-Primeria aula - https://www.youtube.com/watch?v=SMzaAP09BD4&list=RDCMUCJnKVGmXRXrH49Tvrx5X0Sw&start_radio=1
-Segunda Aula - https://www.youtube.com/watch?v=fkfWcPZUd4Y
-GITFLOW - SEJA O NINJA SUPREMO NO GIT! (super importante e prático!) - https://www.youtube.com/watch?v=dJjVr6Ya7B8
+## DESCOMPLICANDO O GITLAB | CERTIFICAÇÃO GITLAB
+- Primeria aula - https://www.youtube.com/watch?v=SMzaAP09BD4&list=RDCMUCJnKVGmXRXrH49Tvrx5X0Sw&start_radio=1
+- Segunda Aula - https://www.youtube.com/watch?v=fkfWcPZUd4Y
+- GITFLOW - SEJA O NINJA SUPREMO NO GIT! (super importante e prático!) - https://www.youtube.com/watch?v=dJjVr6Ya7B8
 
-treinamento oficial git - https://gitlab.edcast.com/pathways/copy-of-gitlab-certification/cards/1411246
+## treinamento oficial git 
+- https://gitlab.edcast.com/pathways/copy-of-gitlab-certification/cards/1411246
 
 
-Curso de Git para iniciantes - https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
-Como usar Git e Github na prática - https://www.youtube.com/watch?v=2alg7MQ6_sI
-CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS) - https://www.youtube.com/watch?v=OuOb1_qADBQ
+## Curso de Git para iniciantes 
+- https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
 
-link git - https://git-scm.com/book/pt-br/v2
+## Como usar Git e Github na prática 
+- https://www.youtube.com/watch?v=2alg7MQ6_sI
+
+## CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS) 
+- https://www.youtube.com/watch?v=OuOb1_qADBQ
+
+## link git oficial 
+- https://git-scm.com/book/pt-br/v2
 
 ### stages
 Working Dir -> Não está sendo gerenciado pelo GIT 
@@ -71,15 +78,14 @@ Head -> Commitar o arquivo para GIT
 
 ## git checkout master
 
-
 ## git remote -v - para verificar repositorios remotos
 
 ## Criando um novo repo GIT
-Push an existing folder
-cd existing_folder
-git init -> inica o GIt para o track
-git remote add origin https://gitlab.com/rodrigofrsaws/importrepo.git -> adicionar o servidor remoto
-git add .
-git commit -m "Initial commit"
-git push -u origin main
+- Push an existing folder
+- cd existing_folder
+- git init -> inica o GIt para o track
+- git remote add origin https://gitlab.com/rodrigofrsaws/importrepo.git -> adicionar o servidor remoto
+- git add .
+- git commit -m "Initial commit"
+- git push -u origin main
 
