@@ -1,4 +1,4 @@
-# git
+# Treinamento git
 
 ### Estudos
 ## DESCOMPLICANDO O GITLAB | CERTIFICAÇÃO GITLAB
